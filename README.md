@@ -18,3 +18,9 @@ Rather than only tracking the problems I solve, I use this repository to documen
 * Maintain consistent daily learning
 * Document my progress and lessons learned
 
+##DAY 1   18-AUGUST-2026
+
+DSA- Today i learned about the leetode question no.13 Roman To Integer.
+where i come to know the concept of traversing and initializing the value.
+
+Web Development- In web development i completed the basics of Java Script.
