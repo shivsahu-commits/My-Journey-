@@ -24,3 +24,14 @@ DSA- Today i learned about the leetode question no.13 Roman To Integer.
 where i come to know the concept of traversing and initializing the value.
 
 Web Development- In web development i completed the basics of Java Script.
+
+##DAY 2 19-AUGUST-2026
+
+DSA- Today i learned about some important concept of string like how to traverse map. Also, attempted leetcode question no. 205 and 49.
+
+Web Development- In web development i started learning about the advanced topic of java script like 
+1)execution content.
+2)how to copy reference value.
+3)window object.
+4)for each, forin, do while
+5)truthy and falsy.
