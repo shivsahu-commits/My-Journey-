@@ -35,3 +35,9 @@ Web Development- In web development i started learning about the advanced topic 
 3)window object.
 4)for each, forin, do while
 5)truthy and falsy.
+
+##DAY 3 20-AUGUST-2026
+
+DSA-Today i have understand the concept of strings and tried to solve some questions.
+
+Web Development- Today in web dev i just revised my previous day notes for better understanding.
