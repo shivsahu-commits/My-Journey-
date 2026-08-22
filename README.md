@@ -41,3 +41,8 @@ Web Development- In web development i started learning about the advanced topic 
 DSA-Today i have understand the concept of strings and tried to solve some questions.
 
 Web Development- Today in web dev i just revised my previous day notes for better understanding.
+
+##DAY 4 21-AUGUST 2026
+
+DSA-I, think that i should stop string here, beacuse im not able to solve the questions on strings basically im not able to understand the logic. So im skipping the strings for now and started HASHING!.
+
