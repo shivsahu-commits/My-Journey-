@@ -46,3 +46,8 @@ Web Development- Today in web dev i just revised my previous day notes for bette
 
 DSA-I, think that i should stop string here, beacuse im not able to solve the questions on strings basically im not able to understand the logic. So im skipping the strings for now and started HASHING!.
 
+##DAY 5 22-AUGUST-2026
+
+DSA-I solved the sums of HASHING! like two ssum and intersection of arrays.
+
+
