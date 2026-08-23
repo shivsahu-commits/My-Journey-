@@ -50,4 +50,7 @@ DSA-I, think that i should stop string here, beacuse im not able to solve the qu
 
 DSA-I solved the sums of HASHING! like two ssum and intersection of arrays.
 
+##DAY 6 23-AUGUST-2026
+WEB DEVELOPMENT-today i completed Ai tools and claude workshop. and undertood the concept of java script.
+
 
