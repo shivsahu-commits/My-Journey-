@@ -57,6 +57,7 @@ DSA- i have completed the question no.219 and push the answer to my dsa-leetcode
 ##DAY7 24-AUGUST-2026
 
 WEB DEVELOPMENT- i learned the concept of java script like-protoype,prototypal inheritence, "this" etc.
+
 DSA- started new topic "linked list" and solved the first question of singlt lnked list ques no.1290.
 
 
