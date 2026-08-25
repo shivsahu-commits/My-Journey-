@@ -60,4 +60,10 @@ WEB DEVELOPMENT- i learned the concept of java script like-protoype,prototypal i
 
 DSA- started new topic "linked list" and solved the first question of singlt lnked list ques no.1290.
 
+##DAY 8 25-AUGUST-2026
+
+DSA-Today i have learned the insertion and deletion concept of "linked list" and solved the leetocde ques no. 237.
+
+WEB DEVELOPMENT- Today is web dev i completed the whole java script series of sheryians, and started working on the project.
+
 
