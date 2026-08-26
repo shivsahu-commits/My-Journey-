@@ -66,4 +66,10 @@ DSA-Today i have learned the insertion and deletion concept of "linked list" and
 
 WEB DEVELOPMENT- Today is web dev i completed the whole java script series of sheryians, and started working on the project.
 
+##DAY 9 26-AUGUST-2026
+
+DSA-today i learned the concept of slow and fast pointer and solved the leetocde question no.837
+
+WEB DEVELOPMENT-working on my little javascript project that helps me writing a js code and also help me to build command on the js.
+
 
