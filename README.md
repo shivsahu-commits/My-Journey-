@@ -72,4 +72,8 @@ DSA-today i learned the concept of slow and fast pointer and solved the leetocde
 
 WEB DEVELOPMENT-working on my little javascript project that helps me writing a js code and also help me to build command on the js.
 
+##DAY 10 27-AUGUST-2026
+
+DSA-Today i have learned the concept of reversing and merging of linked list and applied it on question like leetcide ques no. 206 and 21.
+
 
