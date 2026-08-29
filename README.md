@@ -76,4 +76,8 @@ WEB DEVELOPMENT-working on my little javascript project that helps me writing a 
 
 DSA-Today i have learned the concept of reversing and merging of linked list and applied it on question like leetcide ques no. 206 and 21.
 
+##Day 11  28-AUGUST-2026
+
+DSA-Today i have just learned some concepts of linked list.
+
 
